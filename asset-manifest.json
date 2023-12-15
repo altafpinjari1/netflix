@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/altafpinjari1/netflix.git/static/css/main.cbfc8aab.css",
-    "main.js": "/altafpinjari1/netflix.git/static/js/main.4d9140e8.js",
-    "static/js/787.a108a004.chunk.js": "/altafpinjari1/netflix.git/static/js/787.a108a004.chunk.js",
-    "static/media/video-tv-in-0819.m4v": "/altafpinjari1/netflix.git/static/media/video-tv-in-0819.4c1a4787988d23b1039c.m4v",
-    "static/media/children.png": "/altafpinjari1/netflix.git/static/media/children.836efd88498e14ebed8e.png",
-    "static/media/bg.jpg": "/altafpinjari1/netflix.git/static/media/bg.32120e4a250bd7e7802a.jpg",
-    "static/media/device-pile-in.png": "/altafpinjari1/netflix.git/static/media/device-pile-in.ff81d825b399d890f9b4.png",
-    "static/media/video-devices-in.m4v": "/altafpinjari1/netflix.git/static/media/video-devices-in.81bb66955f7e9654e354.m4v",
-    "static/media/mobile-0819.jpg": "/altafpinjari1/netflix.git/static/media/mobile-0819.063578d5b6d5ab4155ec.jpg",
-    "static/media/logoo.png": "/altafpinjari1/netflix.git/static/media/logoo.774e8c1632ac9433608b.png",
-    "static/media/tv.png": "/altafpinjari1/netflix.git/static/media/tv.0049bc70babc1f94cf88.png",
-    "index.html": "/altafpinjari1/netflix.git/index.html",
-    "main.cbfc8aab.css.map": "/altafpinjari1/netflix.git/static/css/main.cbfc8aab.css.map",
-    "main.4d9140e8.js.map": "/altafpinjari1/netflix.git/static/js/main.4d9140e8.js.map",
-    "787.a108a004.chunk.js.map": "/altafpinjari1/netflix.git/static/js/787.a108a004.chunk.js.map"
+    "main.css": "/netflixs.git/static/css/main.71e368fd.css",
+    "main.js": "/netflixs.git/static/js/main.68a59d00.js",
+    "static/js/787.a108a004.chunk.js": "/netflixs.git/static/js/787.a108a004.chunk.js",
+    "static/media/video-tv-in-0819.m4v": "/netflixs.git/static/media/video-tv-in-0819.4c1a4787988d23b1039c.m4v",
+    "static/media/children.png": "/netflixs.git/static/media/children.836efd88498e14ebed8e.png",
+    "static/media/bg.jpg": "/netflixs.git/static/media/bg.32120e4a250bd7e7802a.jpg",
+    "static/media/device-pile-in.png": "/netflixs.git/static/media/device-pile-in.ff81d825b399d890f9b4.png",
+    "static/media/video-devices-in.m4v": "/netflixs.git/static/media/video-devices-in.81bb66955f7e9654e354.m4v",
+    "static/media/mobile-0819.jpg": "/netflixs.git/static/media/mobile-0819.063578d5b6d5ab4155ec.jpg",
+    "static/media/logoo.png": "/netflixs.git/static/media/logoo.774e8c1632ac9433608b.png",
+    "static/media/tv.png": "/netflixs.git/static/media/tv.0049bc70babc1f94cf88.png",
+    "index.html": "/netflixs.git/index.html",
+    "main.71e368fd.css.map": "/netflixs.git/static/css/main.71e368fd.css.map",
+    "main.68a59d00.js.map": "/netflixs.git/static/js/main.68a59d00.js.map",
+    "787.a108a004.chunk.js.map": "/netflixs.git/static/js/787.a108a004.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cbfc8aab.css",
-    "static/js/main.4d9140e8.js"
+    "static/css/main.71e368fd.css",
+    "static/js/main.68a59d00.js"
   ]
 }
